@@ -5,11 +5,11 @@ The following interface is of the main library TTU
 
 ### Control Interface 
 
-https://i.imgur.com/CvwPLxv.jpg https://i.imgur.com/CvwPLxv.jpg 
+![](image0.jpg)  ![](image1.jpg) 
 
 ### Operation of Control Interface 
 
-https://media.giphy.com/media/d8hgEWWGx3eEsihlZD/giphy.gif
+![](gif_image_library.gif)
 
 ### Issues with the current design
 
@@ -45,7 +45,7 @@ The elevator usually provides the feedback visually by lighting up the buttons o
 ### Improved Control Interface
 Following is the screenshot of my design of control interface :
 
-https://i.imgur.com/X3paBPq.jpg
+![](design_sketch.jpg)
 
 - There is only one vertical column for floor buttons which makes the identification of floors easy and distinguishable for the users. Each floor button gives an audio as well as visual feedback to the user. There is a floor queue list which tells the user how the elevator will move.
 - There is additional information which lets the user know about the places on floor and current time. The floor information is clearly visible and aligned with the floor numbers.
