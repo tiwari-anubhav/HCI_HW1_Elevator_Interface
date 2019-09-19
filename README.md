@@ -3,7 +3,9 @@
 ## Links
 
 Presentation Page - https://tiwari-anubhav.github.io/hw1.9.tiwari/
+
 Github Repository - https://github.com/tiwari-anubhav/hw1.9.tiwari
+
 GIF Image - https://github.com/tiwari-anubhav/hw1.9.tiwari/blob/master/hw1.tiwari.gif
 
 ## Getting C
